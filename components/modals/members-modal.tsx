@@ -127,3 +127,55 @@ const MembersModal = () => {
                             <ShieldQuestion className="w-4 h-4 mr-2" />
                             <span>Role</span>
                           </DropdownMenuSubTrigger>
+
+                          <DropdownMenuPortal>
+                            <DropdownMenuSubContent>
+                              <DropdownMenuItem
+                                onClick={() =>
+                                  onRoleChange(member?.id, "GUEST")
+                                }
+                              >
+                                <Shield className="w-4 h-4 mr-2" />
+                                Guest
+                                {member.role === "GUEST" && (
+                                  <Check className="w-4 h-4 ml-auto" />
+                                )}
+                              </DropdownMenuItem>
+                              <DropdownMenuItem
+                                onClick={() =>
+                                  onRoleChange(member?.id, "MODERATOR")
+                                }
+                              >
+                                <ShieldCheck className="w-4 h-4 mr-2" />
+                                Moderator
+                                {member.role === "MODERATOR" && (
+                                  <Check className="w-4 h-4 ml-auto" />
+                                )}
+                              </DropdownMenuItem>
+                            </DropdownMenuSubContent>
+                          </DropdownMenuPortal>
+                        </DropdownMenuSub>
+                        <DropdownMenuSeparator />
+
+                        <DropdownMenuItem
+                          onClick={() => onKick(member?.id)}
+                        >
+                          <Gavel className="w-4 h-4 mr-2" />
+                          Kick
+                        </DropdownMenuItem>
+                      </DropdownMenuContent>
+                    </DropdownMenu>
+                  </div>
+                )}
+              {loadingId === member.id && (
+                <Loader2 className="animate-spin text-zonc-500 ml-auto w-4 h-4" />
+              )}
+            </div>
+          ))}
+        </ScrollArea>
+      </DialogContent>
+    </Dialog>
+  );
+};
+
+export default MembersModal;
