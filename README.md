@@ -6,7 +6,7 @@ using the next js
 • Implemented real-time updates, user search, and member management functionalities.
 
 ## Screenshot of web app:
-<img width="1407" alt="image" 
+<img width="1408" alt="image" 
  src="https://utfs.io/f/mJvRnIkXEid5hKFM7btuSbW2FIKR9CTzktOLxgM7f5Gque3a">
 
  ## Installation
