@@ -11,7 +11,7 @@ using the next js
 
  ## Installation:
 
- 1. Clone the repository:
+ 1. Clone the git repository:
  2. Install dependencies: `npm install`
  3. Start the development server: `npm run dev`
  4. Open your browser and visit http://localhost:3000 or `ctrl+click` on the link
