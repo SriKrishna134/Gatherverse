@@ -5,7 +5,7 @@ calling.
 
 • Implemented real-time updates, user search, and member management functionalities.
 
-## Screenshot of web app:
+## Screenshot Of Web App:
 <img width="1408" alt="image" 
  src="https://utfs.io/f/mJvRnIkXEid5hKFM7btuSbW2FIKR9CTzktOLxgM7f5Gque3a">
 
