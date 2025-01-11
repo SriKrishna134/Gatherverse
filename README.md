@@ -1,6 +1,7 @@
 # Gatherverse:
 • Developed an advanced communication platform, featuring server and user management, direct messaging, and video
 calling.
+
 ## Using the Next js:
 
 • Implemented real-time updates, user search, and member management functionalities.
