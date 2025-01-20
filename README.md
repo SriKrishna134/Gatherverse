@@ -5,7 +5,7 @@ calling {high quality}.
 
 ## Using the Next js:
 
-• Implemented real-time updates, user search, and member management functionalities.
+• Implemented real-time updates, user search, and member management functionalities in high speed.
 
 ## Screenshot Of Web App:
 <img width="1408" alt="image" 
