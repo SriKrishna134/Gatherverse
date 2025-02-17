@@ -1,7 +1,7 @@
 # Gatherverse:
 
 •  Developed an advanced communication platform, featuring server and user management, direct messaging, and video
-calling {high quality}.
+calling it {high quality}.
 
 ## Using the Next js:
 
