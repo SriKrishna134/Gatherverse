@@ -17,6 +17,8 @@ calling it {high quality}.
   <img width="1408" alt="image" 
  src="https://utfs.io/f/mJvRnIkXEid5hKFM7btuSbW2FIKR9CTzktOLxgM7f5Gque3a">
 
+ 
+
   ## Installation:
 
  1. Clone the git hub repository :
