@@ -24,7 +24,7 @@ calling it {high quality}.
  1. Clone the git hub repository :
 
  2. Install dependencies: `npm install`
-
+  // //
  3. Start the development server: `npm run dev`
     
  4. Open your browser and visit http://localhost:3000 or `ctrl+click` on the link
