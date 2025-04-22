@@ -25,7 +25,7 @@ calling it {high quality}.
 
  2. Install dependencies: `npm install`
   
-  // //
+   // //
 
  3. Start the development server: `npm run dev`
 
