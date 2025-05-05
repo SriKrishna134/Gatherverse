@@ -1,4 +1,4 @@
-  # Gatherverse:
+ # Gatherverse:
 
 
 
@@ -7,7 +7,7 @@ calling it {high quality}.
 
 
  ## Using the Next js
- • Implemented real-time updates, user search, and member management functionalities in a high speed.
+ • Implemented real-time updates, user search, and member management functionalities in a high speed. 
 
 
  
