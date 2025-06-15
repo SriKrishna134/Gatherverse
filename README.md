@@ -1,4 +1,4 @@
-  # Gatherverse:                                                                                                      
+   # Gatherverse:                                                                                                                                       
 
 
 
@@ -37,7 +37,7 @@ calling it {high quality}.
 
 
 
-                                         
-        
-                                                           
+                                                    
+                          
+                                                                             
  ...                      
